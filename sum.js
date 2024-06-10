@@ -1,4 +1,4 @@
-a=10;
-b=5;
-c=a+b;
-console.log("a+b= ",c);
+function sum(a,b){
+    console.log("a + b = ",a+b)  
+}
+sum(5,3)
